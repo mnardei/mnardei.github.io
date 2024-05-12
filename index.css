@@ -35,6 +35,6 @@ h2:hover {
 }
 
 #about-me h3 {
-    text-decoration: dotted;
+    text-decoration: underline;
     color: teal;
 }
