@@ -1,6 +1,39 @@
+* {
+    font-family: Helvetica;
+}
+
 h1 {
-  background-color: orange;
-  color: white;
-  font-family: Helvetica;
-  font-size: 48px;
+    background-color: teal;
+    color: white;
+    font-size: 48px;
+    font-weight: bold;
+    font-family: Helvetica;
+    text-align: center;
+}
+
+#job-title {
+    color: blue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+#heading h2 {
+    text-align: center;
+}
+
+h2:hover {
+    color: teal;
+    text-decoration: underline;
+}
+
+#ice-cream {
+    height: 300px;
+    width: 300px;
+    border: solid teal 4px;
+    display: block;
+    margin: 0 auto;
+}
+
+#about-me h3 {
+    text-decoration: dotted;
 }
